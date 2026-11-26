@@ -98,4 +98,4 @@ The project consists of the following files:
 For enquiries or further information:
 
 - **Email:** salsabilahakiim@gmail.com
-- **GitHub:** [nyrhun](https://github.com/sheikhsals)
+- **GitHub:** [salsabila](https://github.com/sheikhsals)
