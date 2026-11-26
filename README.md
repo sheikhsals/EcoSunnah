@@ -53,7 +53,7 @@ The project consists of the following files:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nyrhun/EcoSunnah.git
+   git clone https://github.com/sheikhsals/EcoSunnah.git
    ```
 
 2. Navigate to the project directory:
@@ -97,5 +97,5 @@ The project consists of the following files:
 
 For enquiries or further information:
 
-- **Email:** nuwairahhanan@gmail.com
-- **GitHub:** [nyrhun](https://github.com/nyrhun)
+- **Email:** salsabilahakiim@gmail.com
+- **GitHub:** [nyrhun](https://github.com/sheikhsals)
